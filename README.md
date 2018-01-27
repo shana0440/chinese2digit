@@ -1,5 +1,7 @@
 # Chinese to Digit
 
+![build status](https://travis-ci.org/shana0440/chinese2digit.svg?branch=master)
+
 transform chinese digit to general digit
 
 ## Install
