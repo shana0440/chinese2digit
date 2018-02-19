@@ -1,6 +1,6 @@
 {
   "name": "chinese2digit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "transform chinese digit to general digit",
   "main": "lib/chinese2digit.js",
   "scripts": {
