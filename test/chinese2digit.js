@@ -18,4 +18,9 @@ describe('salary parse', () => {
         var number = chinese2digit('六十八億三千五百六十萬五千四百八十一');
         number.should.be.equal(6835605481);
     })
+
+    it('should be 120000', () => {
+        var number = chinese2digit('12萬');
+        number.should.be.equal(120000);
+    })
 });
